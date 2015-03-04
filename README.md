@@ -18,6 +18,8 @@ pip install sinaweibopy
 
 ## 获取授权，发送微博
 
+下载库中的 [`post_weibo.py`](https://github.com/genglema/genglema.github.io/blob/master/post_weibo.py) 代码文件，测试过程如下：
+
 ```
 $ python post_weibo.py 
 https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//www.weibo.com&response_type=code&client_id=2339560670
