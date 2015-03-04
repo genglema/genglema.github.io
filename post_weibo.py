@@ -4,7 +4,7 @@
 from weibo import APIClient
 
 APP_KEY = '待写入'
-APP_SECRET = '待写入'                    # APP_KEY 和 APP_SECRET 通过创建应用获取
+APP_SECRET = '待写入'                   # APP_KEY 和 APP_SECRET 通过创建应用获取
 CALLBACK_URL = 'http://www.weibo.com'   # 和 OAuth2.0 授权设置网页一致
 
 # 获取微博授权
