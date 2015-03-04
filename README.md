@@ -12,7 +12,7 @@ pip install sinaweibopy
 
 * [微博开放平台](http://open.weibo.com/apps)
 
-申请之后创建应用获取 `App Key` 和 `App Secret`，填入代码中指定行即可
+申请之后创建应用获取 `App Key` 和 `App Secret`，填入代码指定行即可
 
 ## 获取授权，发送微博
 
