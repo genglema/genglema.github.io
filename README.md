@@ -1,5 +1,7 @@
 # Linux 下通过命令行发送微博
 
+代码托管在github上，地址：[Linux 下通过命令行发送微博](https://github.com/genglema/genglema.github.io)
+
 ## 安装 weibo python sdk
 
 * 项目地址: [sinaweibopy](http://github.liaoxuefeng.com/sinaweibopy/)
