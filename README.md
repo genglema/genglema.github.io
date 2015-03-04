@@ -1,1 +1,1 @@
-# genglema.github.io
+# Linux 下通过命令行发送微博
